@@ -4951,10 +4951,10 @@ hr.line {
 
 @font-face {
     font-family: icomoon;
-    src: url("https://conraid.github.io/fonts/icomoon.eot");
-    src: url("https://conraid.github.io/fonts/icomoon.eot?#iefix") format("embedded-opentype"),
-		 url("https://conraid.github.io/fonts/icomoon.woff") format("woff"),
-		 url("https://conraid.github.io/fonts/icomoon.svg?#icomoon") format("svg");
+    src: url("https://conraid.github.io//fonts/icomoon.eot");
+    src: url("https://conraid.github.io//fonts/icomoon.eot?#iefix") format("embedded-opentype"),
+	 url("https://conraid.github.io//fonts/icomoon.woff") format("woff"),
+	 url("https://conraid.github.io//fonts/icomoon.svg?#icomoon") format("svg");
     font-weight: 400;
     font-style: normal
 }
