@@ -4843,7 +4843,7 @@ hr.line {
     text-align: center;
     border: 0;
     margin: 1rem auto 2rem;
-    background: url(/img/line.svg) center center no-repeat;
+    background: url(../img/line.svg) center center no-repeat;
     content: "";
     height: 63px;
     position: relative
